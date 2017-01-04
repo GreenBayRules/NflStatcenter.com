@@ -5,10 +5,12 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    list-style: none;
 }
 
 li {
     float: left;
+    list-style: none;
 }
 
 li a, .dropbtn {
